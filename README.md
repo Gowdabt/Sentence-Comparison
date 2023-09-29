@@ -6,23 +6,23 @@ place inputs in sentences.txt in folder where this programme is executing
 
 ## How to Run
 
-###Compile
+### Compile
 
 ```
 javac SentenceComparison.java
 ```
 
-###run
+### run
 ```
 javac SentenceComparison.java
 ```
 
-##Output
+## Output
 
 output will be added to file named output.txt
 
 
-###Sampleinput
+### Sampleinput
 01-01-2012 19:45:00 Naomi is getting into the car
 01-01-2012 20:12:39 Naomi is eating at a restaurant
 02-01-2012 09:13:15 George is getting into the car
@@ -34,7 +34,7 @@ output will be added to file named output.txt
 
 
 
-###SampleOutput
+### SampleOutput
 01-01-2012 19:45:00 Naomi is getting into the car
 04-01-2012 21:55:05 Naomi is running into the car
 The changing word was:[getting, running]
